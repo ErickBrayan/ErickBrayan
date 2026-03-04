@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brayan</h1>
-<h3 align="center">A passionate backend developer from Perú</h3>
+<h1 align="center">Hi 👋, Soy Brayan</h1>
 
-- 📫 How to reach me **ebrayan2000@gmail.com**
+- 📫 Contactame **ebrayan2000@gmail.com**
+- 📋 Mi Porfoli **https://jazzy-rolypoly-ace754.netlify.app/** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
